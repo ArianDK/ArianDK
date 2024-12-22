@@ -10,7 +10,7 @@ My name is Arian and I am a student working on my degree in computer science. I 
 - 📫 How to reach me: either by email or social media platforms.
 - ⚡ Fun fact: I love traveling.
 <a href="https://github.com/ariandk/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariandk&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariandk&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true" />
 </a>
 <a href="https://github.com/ariandk/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ariandk&theme=transparent" />
