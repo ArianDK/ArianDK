@@ -13,7 +13,7 @@ My name is Arian and I am a student working on my degree in computer science. I 
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariandk&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true" />
 </a>
 <a href="https://github.com/ariandk/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ariandk&theme=transparent" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ariandk&theme=transparent&hide_border=true" />
 </a>
 <!--
 **ArianDK/ArianDK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
