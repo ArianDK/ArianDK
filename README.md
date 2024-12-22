@@ -10,10 +10,10 @@ My name is Arian and I am a student working on my degree in computer science. I 
 - 📫 How to reach me: either by email or social media platforms.
 - ⚡ Fun fact: I love traveling.
 <a href="https://github.com/ariandk/convoychat">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariandk&layout=compact&langs_count=8&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariandk&layout=compact&langs_count=8&card_width=320" />
 </a>
 <a href="https://github.com/ariandk/github-readme-stats">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=ariandk" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ariandk" />
 </a>
 <!--
 **ArianDK/ArianDK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
