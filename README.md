@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-My name is Arian and I am a computer science student working on my degree. I work with Python, Java, PHP, HTML and CSS. 
+My name is Arian and I am a student working on my degree in computer science. I work with Python, Java, PHP, HTML and CSS. 
 
 - 🔭 I’m currently working on FreeCodeCamp.
 - 🌱 I’m currently learning Python.
