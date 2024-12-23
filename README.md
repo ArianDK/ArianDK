@@ -35,10 +35,6 @@ My name is Arian and I am a student working on my degree in computer science. I 
 </p>
 
 <!--<img src="https://profile-counter.glitch.me/ariandk/count.svg" />-->
-<p align='center'>
-<a href="https://www.instagram.com/arian_d.k"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="www.linkedin.com/in/arian-din-kirkebo-b11a46266"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-</p>
 
 <!--
 https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#usage --- Stats for profile
