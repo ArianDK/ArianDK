@@ -1,14 +1,13 @@
 ## Hello there 👋
 My name is Arian and I am a student working on my degree in computer science. I work with Python, Java, PHP, HTML and CSS. 
 
-- 🔭 I’m currently working on FreeCodeCamp.
-- 🌱 I’m currently learning Python.
+- 🔭 Currently working on FreeCodeCamp.
+- 🌱 Learning Python.
 - 👯 I’m looking to collaborate on projects related to Python and AI.
 - 🤔 I’m looking for help with my programming journey.
-- 💬 Ask me about anything.
+- 💬 Ask me about anything and everything.
 - 🌐 Visit my [portfolio website](https://ariandk.github.io) for more information and to get in touch.
-- ⚡ Fun fact: I love traveling.
----
+<hr style="border: 1px solid #ccc;" />
 <h3>Tools I use:</h3>
 <p>
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
@@ -29,7 +28,7 @@ My name is Arian and I am a student working on my degree in computer science. I 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
   <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
-
+<hr style="border: 1px solid #ccc;" />
 <p align="center">
 <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariandk&layout=compact&langs_count=8&card_width=320&theme=transparent" /> <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ariandk&theme=transparent" />
 </p>
