@@ -12,7 +12,7 @@ My name is Arian and I am a student working on my degree in computer science. I 
 <a href="https://github.com/ariandk/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariandk&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
-</n>
+<n></n>
 <a href="https://github.com/ariandk/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ariandk&theme=transparent" />
 </a>
