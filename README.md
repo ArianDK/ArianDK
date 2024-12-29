@@ -6,7 +6,7 @@ My name is Arian and I am a student working on my degree in computer science. I 
 - 👯 I’m looking to collaborate on projects related to Python and AI.
 - 🤔 I’m looking for help with my programming journey.
 - 💬 Ask me about anything and everything.
-- 🌐 Visit my [portfolio website](https://ariandk.github.io) for more information and to get in touch.
+- 🌐 Visit my <a href="https://ariandk.github.io" target="_blank">portfolio website</a> for more information and to get in touch.
 <hr style="border: 1px solid #ccc;" />
 <h3>Tools I use:</h3>
 <p>
