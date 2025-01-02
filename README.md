@@ -1,7 +1,7 @@
 ## Hello there 👋
 My name is Arian and I am a student working on my degree in computer science. I work with Python, Java, PHP, HTML and CSS. 
 
-- 🔭 Currently working on FreeCodeCamp.
+- 🔭 Currently working on FreeCodeCamp and project based learning.
 - 🌱 Learning Python.
 - 👯 I’m looking to collaborate on projects related to Python and AI.
 - 🤔 I’m looking for help with my programming journey.
