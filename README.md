@@ -7,8 +7,8 @@ My name is Arian and I am a student working on my degree in computer science. I 
 - 🤔 I’m looking for help with my programming journey.
 - 💬 Ask me about anything and everything.
 - 🌐 Visit my [portfolio website](https://ariandk.github.io) for more information and to get in touch.
-<hr style="border: 1px solid #ccc;" />
-<h3>Tools I use:</h3>
+
+### Tools I use:
 <p>
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
   <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff"/>
@@ -18,7 +18,8 @@ My name is Arian and I am a student working on my degree in computer science. I 
   <img src="https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](#)"/>
   <img src="https://img.shields.io/badge/Khan%20Academy-14BF96?logo=khanacademy&logoColor=fff"/>
 </p>
-<h3>Programming languages I specialize in:</h3>
+
+### Programming languages I specialize in:
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -28,15 +29,14 @@ My name is Arian and I am a student working on my degree in computer science. I 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
   <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
-<hr style="border: 1px solid #ccc;" />
+<br>
 <p align="center">
 <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariandk&layout=compact&langs_count=8&card_width=320&theme=transparent" /> <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ariandk&theme=transparent" />
 </p>
 
-<!--<img src="https://profile-counter.glitch.me/ariandk/count.svg" />-->
-
 <!--
 https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#usage --- Stats for profile
 https://github.com/inttter/md-badges --- Badges for profile
-https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#minimalistic- --- Inspiration
-**ArianDK/ArianDK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://github.com/Ileriayo/markdown-badges --- Badges for profile 2
+https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file --- Inspiration
+-->
