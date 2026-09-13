@@ -30,14 +30,17 @@ My name is Arian and I am a student working on my degree in computer science. I 
   <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white"/>
 </p>
-<br>
-<p align="center">
-<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariandk&layout=compact&langs_count=8&card_width=320&theme=transparent" /> <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ariandk&theme=transparent" />
-</p>
 
 <!--
 https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#usage --- Stats for profile
 https://github.com/inttter/md-badges --- Badges for profile
 https://github.com/Ileriayo/markdown-badges --- Badges for profile 2
 https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file --- Inspiration
+
+
+
+<br>
+<p align="center">
+<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariandk&layout=compact&langs_count=8&card_width=320&theme=transparent" /> <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ariandk&theme=transparent" />
+</p>
 -->
